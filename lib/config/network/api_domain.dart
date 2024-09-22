@@ -1,0 +1,1 @@
+const String stagingDomainPropertyApi = 'https://property-api.izeta.co';
